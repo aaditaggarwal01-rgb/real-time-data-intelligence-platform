@@ -1,0 +1,40 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "generated": "2026-11-05T13:15:01Z",
+    "title": "USGS All Earthquakes, Past Hour",
+    "count": 5
+  },
+  "features": [
+    {
+      "id": "nc75462742",
+      "time": "2026-11-05T12:46:12Z",
+      "updated": "2026-11-05T12:47:49Z",
+      "mag": 0.75,
+      "magType": "md",
+      "place": "6 km WNW of The Geysers, CA",
+      "longitude": -122.814834594727,
+      "latitude": 38.8056678771973,
+      "depth_km": 3.25,
+      "status": "automatic",
+      "tsunami": 0,
+      "type": "earthquake",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc75462742"
+    },
+    {
+      "id": "hv75068896",
+      "time": "2026-11-05T12:25:18Z",
+      "updated": "2026-11-05T12:28:48Z",
+      "mag": 1.7,
+      "magType": "md",
+      "place": "22 km N of Pāhala, Hawaii",
+      "longitude": -155.453506469727,
+      "latitude": 19.4044990539551,
+      "depth_km": 5.76999998092651,
+      "status": "automatic",
+      "tsunami": 0,
+      "type": "earthquake",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv75068896"
+    }
+  ]
+}
